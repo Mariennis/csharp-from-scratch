@@ -1,7 +1,4 @@
-﻿using System.Reflection.Metadata.Ecma335;
-
-
-namespace HelloWorld{
+﻿namespace HelloWorld{
 
     class Program{
 
