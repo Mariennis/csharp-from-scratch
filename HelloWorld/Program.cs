@@ -27,7 +27,7 @@
             Console.WriteLine($"Tu fecha de nacimiento: {person.Birthday}");
             Console.WriteLine($"Tu edad es: {person.Age} años");
 
-            Console.WriteLine();
+            Console.ReadLine();
         }
     }
 
